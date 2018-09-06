@@ -20,7 +20,11 @@ https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.32
 
 ---
 
-*It is my first time I have participated in bigdata contest, Im sorry I have writen this code ugly and hard to understand.*       
+*It is my first time I have participated in bigdata contest, Im sorry I have writen this code ugly and hard to understand.*      
+
+
+
+
 
 *If you have some questions or suggestions just send them to my E-mail: cs_xcy@126.com and i will write back soon *      
 
