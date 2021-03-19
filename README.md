@@ -10,7 +10,7 @@ https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.32
 
 Update on March 19th. 2021:
 
-When I looked through this code written down around 4 years ago, I am kind of impressed. This is the frist time I have tried to involve in a data mining competition, the code is messed up and the result is not proud but it worked. The most interesting part is I just use the general Python code to do the complicated feature engineering part without Pandas and Numpy, but the speed and memory cost are both quite good! I must appoligize this code is definately hard to read. Hopefully you can find something helpful from this dirty shit to anything you are working on.
+When I look through this code written down around 4 years ago, I am kind of impressed. This was the frist time I have tried to involve in a data mining competition, the code is messed up and the result is not proud but it works. The most interesting part is I just use the general Python code to do the complicated feature engineering part without Pandas and Numpy, but the speed and memory cost are both quite good! I must appoligize this code is definately hard to read. Hopefully you can find something helpful from this dirty shit to anything you are working on.
 
 Best,
 
